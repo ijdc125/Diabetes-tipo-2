@@ -8,7 +8,7 @@ library(DBI)
 
 con <- dbConnect(MySQL(),
                  user = "root",
-                 password = "Karen2019",
+                 password = "******",
                  dbname = "diabetes_tip_2",
                  host = "localhost",
                  port = 3306)
