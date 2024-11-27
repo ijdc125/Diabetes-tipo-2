@@ -3,8 +3,8 @@
 Este repositorio contiene un script SQL para crear y poblar una base de datos relacionada con los costos y estadísticas de tratamientos para la diabetes tipo 2.
 
 ## Autor
-[Javier Davila
-Vanessa Coot
-Iavonne Martinez (Ivan)
-Paola Campos](https://github.com/ijdc125)
+[Vanessa Zehany Coot Medina
+Ivonne Martinez Galindo (Iván)
+Paola Lizeth Campos Sanchez
+Irving Javier Dávila Correa](https://github.com/ijdc125)
 
